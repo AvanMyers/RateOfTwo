@@ -1,0 +1,8 @@
+D:\C# Project\RateOfTwo\RateOfTwo\bin\Debug\RateOfTwo.exe.config
+D:\C# Project\RateOfTwo\RateOfTwo\bin\Debug\RateOfTwo.exe
+D:\C# Project\RateOfTwo\RateOfTwo\bin\Debug\RateOfTwo.pdb
+D:\C# Project\RateOfTwo\RateOfTwo\obj\Debug\RateOfTwo.csproj.AssemblyReference.cache
+D:\C# Project\RateOfTwo\RateOfTwo\obj\Debug\RateOfTwo.csproj.SuggestedBindingRedirects.cache
+D:\C# Project\RateOfTwo\RateOfTwo\obj\Debug\RateOfTwo.csproj.CoreCompileInputs.cache
+D:\C# Project\RateOfTwo\RateOfTwo\obj\Debug\RateOfTwo.exe
+D:\C# Project\RateOfTwo\RateOfTwo\obj\Debug\RateOfTwo.pdb
